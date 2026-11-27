@@ -1,0 +1,17 @@
+# Cell structure
+The nucleus stores genetic information and controls many cell activities. Mitochondria are the main site of aerobic respiration and produce ATP. The cell membrane controls the movement of substances into and out of the cell. Plant cells also have a cellulose cell wall, chloroplasts and a large permanent vacuole.
+
+# Membrane transport
+Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration. Osmosis is the net movement of water through a partially permeable membrane from higher water potential to lower water potential. Active transport moves substances against a concentration gradient and requires energy from ATP.
+
+# Photosynthesis
+Photosynthesis uses light energy to convert carbon dioxide and water into glucose and oxygen. Chlorophyll in chloroplasts absorbs light energy. Light-dependent reactions provide energy for carbon fixation. The glucose produced can be used in respiration, converted to starch for storage, or used to build other organic molecules. Light intensity, carbon dioxide concentration and temperature can limit the rate of photosynthesis.
+
+# Respiration
+Aerobic respiration breaks down glucose using oxygen and releases energy that is transferred to ATP. Carbon dioxide and water are products of aerobic respiration. ATP supplies energy for cell processes such as active transport and muscle contraction. Respiration occurs in both plant and animal cells throughout the day and night.
+
+# DNA and genes
+DNA stores genetic information in the sequence of its bases. A gene is a section of DNA that codes for a functional product, often a protein. Chromosomes are long DNA molecules associated with proteins. Different versions of the same gene are called alleles. A change in the DNA base sequence is a mutation.
+
+# Mendelian inheritance
+A dominant allele is expressed in the phenotype when at least one copy is present. A recessive allele is expressed in the phenotype only when two recessive copies are present in a simple diploid model. Crossing two heterozygous parents, Aa and Aa, gives an expected genotype ratio of 1 AA to 2 Aa to 1 aa. Under complete dominance, the expected phenotype ratio is 3 dominant to 1 recessive.
